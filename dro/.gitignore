@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+group_agnostic_fairness/data
+data/raw
+__pycache__
+outputs
